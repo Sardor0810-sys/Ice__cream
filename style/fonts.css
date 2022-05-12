@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Fredoka-one';
+    src: url(../font-family/FredokaOne-Regular.ttf);
+}
+@font-face {
+    font-family: 'hind-muderais';
+    src: url(../font-family/HindMadurai-Regular.ttf);
+}
+@font-face {
+    font-family: 'Hind-muderai';
+    src: url(../font-family/HindMadurai-Bold.ttf);
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url(../font-family/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: 'Roboto-bold';
+    src: url(../font-family/Roboto-Bold.ttf);
+}
